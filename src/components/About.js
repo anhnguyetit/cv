@@ -63,7 +63,7 @@ export default class About extends Component {
                                 ))}
                                 {items.map(item => (
                                     <p key={item.id}>
-                                        <strong>Phone: </strong> {item.Phone}
+                                        <strong>Phone number: </strong> {item.Phone}
                                     </p>
                                 ))}
                                 {items.map(item => (
