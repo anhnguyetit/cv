@@ -41,7 +41,7 @@ export default class Navbar extends Component {
                   </Link>
                     </li>
                     <li>
-                      <a href='https://drive.google.com/file/d/1nHUtIUZJh6L-xmHdAtfHnfZJf1ekLJMz/view?usp=sharing' target="blank">
+                      <a href='https://i.topcv.vn/nguyenthianhnguyet?ref=3639712' target="blank">
                         <i className="fas fa-download"></i> Download CV
                     </a>
                     </li>
@@ -73,11 +73,11 @@ export default class Navbar extends Component {
                         <i className="fas fa-address-card"></i> Contact
                     </Link>
                     </li>
-                    {/* <li>
-                  <a href='https://drive.google.com/file/d/1nHUtIUZJh6L-xmHdAtfHnfZJf1ekLJMz/view?usp=sharing' target="blank">
+                     <li>
+                  <a href='https://i.topcv.vn/nguyenthianhnguyet?ref=3639712' target="blank">
                     <i className="fas fa-download"></i> Download CV
                     </a>
-                </li> */}
+                </li> 
                   </ul>
 
                 </div>

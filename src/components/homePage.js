@@ -39,10 +39,14 @@ export default class HomePage extends Component {
               </strong>
               <hr />
               <div className="">
-                <p> - Group skill.</p>
+                <p> - Communication skills.</p>
                 <br></br>
                 <p>
                   - Easily adaptable to new environments.
+                  </p>
+                  <br></br>
+                  <p>
+                  - Analytical skills.
                   </p>
               </div>
             </h6>
@@ -52,21 +56,14 @@ export default class HomePage extends Component {
           <div className="card-content">
             <h6 className="mt-button">
               <strong>
-                <i className="fas fa-language icon"></i>Language level
+                <i className="fas fa-language icon"></i>INTERESTS
               </strong>
               <hr />
               <div className="row">
                 <div className="col s8 m10 l10">
-                  <p> - English</p>
+                  <p> - I love reading, traveling with friends and family</p>
                 </div>
                 <div className="col s4 m2 l2">
-                  <p>
-                    <i className="fas fa-star active"></i>
-                    <i className="fas fa-star active"></i>
-                    <i className="fas fa-star active"></i>
-                    <i className="fas fa-star active"></i>
-                    <i className="fas fa-star "></i>
-                  </p>
                 </div>
               </div>
             </h6>

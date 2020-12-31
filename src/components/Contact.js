@@ -32,7 +32,7 @@ export default class Contact extends Component {
                           <a
                             target="blank"
                             href="https://mail.google.com/mail/u/0/?ogbl#inbox?compose=CllgCKCJDtpDcPnpczfvVmVppCXvjsMKvbzZqqvmFLPJMsXwdJPQcNcMXVqgMRGhcvrCGMqtjWL"
-                            className="btn pink lighten-2 "
+                            className="btn teal lighten-2 "
                           >
                             Click to send mail
                           </a>

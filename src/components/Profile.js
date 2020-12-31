@@ -9,23 +9,23 @@ export default class Profile extends Component {
         <div className="card">
           <div className="card-image">
             <img className="activator" src={ImgProfile} alt="avatar" />
-            <Link to="/CV/" className="btn-floating halfway-fab waves-effect waves-light teal">
+            {/* <Link to="/CV/" className="btn-floating halfway-fab waves-effect waves-light teal">
               <i className="activator material-icons right">more_vert</i>
-            </Link>
+            </Link> */}
           </div>
           <div style={{ textAlign: 'center' }} className="card-content">
             <span className="card-title teal-text">Nguyen Thi Anh Nguyet</span>
             <p >Tester</p>
           </div>
 
-          <div className="card-reveal">
+          {/*<div className="card-reveal">
             <span className="card-title grey-text text-darken-4">Flow me<i className="material-icons right">close</i></span>
-            <p className="flex-container">
+           {/* <p className="flex-container">
               <a href="https://www.facebook.com/kim.thanh.150399" target="blank" > <i className="fab fa-facebook-f blue-text text-darken-4 social-style"></i></a>
               <a href="https://myaccount.google.com/u/1/?utm_source=OGB&tab=wk&utm_medium=act&pli=1" target="blank" > <i className="fab fa-google-plus-g red-text text-darken-4 social-style"></i></a>
               <a href="https://www.instagram.com/kimthanh.150399/?hl=vi" target="blank" ><i className="fab fa-instagram orange-text text-darken-4 social-style"></i></a>
-            </p>
-          </div>
+    </p>*
+          </div>*/}
         </div>
       </div>
     );
